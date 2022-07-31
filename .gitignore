@@ -1,2 +1,5 @@
 angular-básico/
-
+.angular/
+.vscode/
+node_modules/
+*.json
