@@ -34,8 +34,8 @@ export class LoginComponent  {
 
   }
 
-  preparaCadastrar($event: any){
-    $event.preventDefault();
+  preparaCadastrar(event:any){
+    event.preventDefault();
     this.cadastrando = true;
   }
 
